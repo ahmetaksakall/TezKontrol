@@ -1,0 +1,10 @@
+1-)Programı Çalıştırmak için "WindowsFormsApp1.exe" Dosyasını Çalıştırın
+2-)Tezi seçin butonuna tıklayarak "ÖrnekTez.pdf" i yükleyin.
+3-)Artık Hataları Kontrol Edebilirsiniz.
+
+
+Hamza OBAN 175542006
+Aydın YAĞIZ 175542001
+Alim Ahmet AKSAKAL 170542002
+Muhammed Raşit YILMAZ 180541022
+Hasan ÇAKMAKÇI 170542019
